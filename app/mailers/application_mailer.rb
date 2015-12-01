@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: "ennino1234@gmail.com"
+  default from: "admin@rubyonrails.com"
   layout 'mailer'
 end
